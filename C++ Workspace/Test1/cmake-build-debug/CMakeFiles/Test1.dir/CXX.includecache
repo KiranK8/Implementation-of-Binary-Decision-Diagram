@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/1st Sem/Verification of digital Systems/project/C++ Workspace/Test1/Manager.cpp
+iostream
+-
+ManagerInterface.h
+E:/1st Sem/Verification of digital Systems/project/C++ Workspace/Test1/ManagerInterface.h
+
+E:/1st Sem/Verification of digital Systems/project/C++ Workspace/Test1/ManagerInterface.h
+iostream
+-
+

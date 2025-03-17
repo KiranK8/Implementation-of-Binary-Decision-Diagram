@@ -1,0 +1,4 @@
+"J:\Softwares\Clion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "E:\1st Sem\Verification of digital Systems\project\C++ Workspace\Test1"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/1st Sem/Verification of digital Systems/project/C++ Workspace/Test1/cmake-build-debug
